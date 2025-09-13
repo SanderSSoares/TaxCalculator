@@ -47,7 +47,31 @@ TaxCalculator is a console-based Java project that:
 ### Prerequisites
 - Java JDK 8+  
 - MySQL (or any relational DB)  
-- Apache Ant  
+- Apache Ant
+
+---
+
+##Usage
+- Add new employees with salary details.
+- Run tax calculations via console commands.
+- Save results to the database.
+- Retrieve historical data for review.
+
+---
+
+##Future Enhancements
+- Multi-jurisdiction tax rules
+- Graphical or web interface
+- REST API for external integrations
+- Automated tax reports
+
+---
+
+##Authors
+- Sander Soares
+- Victor Oliveira
+
+---
 
 ### Installation
 ```bash
