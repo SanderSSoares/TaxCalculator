@@ -51,7 +51,7 @@ TaxCalculator is a console-based Java project that:
 
 ---
 
-##Usage
+### Usages
 - Add new employees with salary details.
 - Run tax calculations via console commands.
 - Save results to the database.
@@ -59,7 +59,7 @@ TaxCalculator is a console-based Java project that:
 
 ---
 
-##Future Enhancements
+### Future Enhancements
 - Multi-jurisdiction tax rules
 - Graphical or web interface
 - REST API for external integrations
@@ -67,7 +67,7 @@ TaxCalculator is a console-based Java project that:
 
 ---
 
-##Authors
+### Authors
 - Sander Soares
 - Victor Oliveira
 
